@@ -1,12 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -31,22 +22,14 @@
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+* [Instructions](#instructions)
 
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<img src="https://i.imgur.com/sCthP6y.png" alt="jarrot" width="150" height="150">
 
 Jarrot, oh the mighty jarrot you never ever had a bot related to you. therefore I represent to you the jarrot bot.
 
