@@ -112,7 +112,7 @@ Now the resulting URL can be used to add your bot to a server. Copy and paste th
 
 That's it! your ready to run the bot and test all of the commands!
 
-##Command List
+## Command List
 
 * (prefix)mightyjarrot (question)
 The following command will send a random image of jarrot with yes/no answers.
@@ -120,4 +120,4 @@ The following command will send a random image of jarrot with yes/no answers.
 * (prefix)jarrot
 The following command will send random image of jarrot taken from r/jarrot.
 
-##Have fun playing with the bot!
+## Have fun!
