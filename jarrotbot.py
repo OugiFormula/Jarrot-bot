@@ -18,7 +18,7 @@ reddit = praw.Reddit(
 
 
 Client = discord.Client()
-client = commands.Bot(command_prefix = "s!")
+client = commands.Bot(command_prefix = "Set Your Prefix Here")
 
 @client.event
 async def on_ready():
